@@ -1,7 +1,7 @@
 
 # Olá, eu sou Ernesto Bernardino! 👋
 
-Sou um desenvolvedor com foco em backend. Aqui você encontrará meus projetos, contribuções e aprendizados ao longo da minha jornada.
+Sou um desenvolvedor com experiência na criação de aplicações web. Aqui você encontrará meus projetos, contribuções e aprendizados ao longo da minha jornada.
 
 ## Linguagens e Ferramentas
 
